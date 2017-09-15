@@ -1,3 +1,5 @@
+#python2
+
 x = int( raw_input('Number : ') )
 k = int( raw_input('Number of digits to multiply :') )
 
