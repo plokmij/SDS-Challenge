@@ -17,7 +17,7 @@ for thing in list(matches):
 		for i in range(1,len(plok)):
 			letdic[int(plok[i])] = plok[0][0]
 letlist = []
-for i in range(len(letdicdic)):
+for i in range(len(letdic)):
 	letlist.append(letdic[i])
 
 output = ''.join(letlist)
