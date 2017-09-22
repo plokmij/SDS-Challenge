@@ -1,3 +1,4 @@
+#python2
 import re
 import sys
 regex = r"([' ']|['.']|[a-zA-Z])=[ ][0-9]*([ ]|[0-9]*|)*"
